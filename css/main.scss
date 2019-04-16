@@ -1,0 +1,18 @@
+/* base settings */
+@import "layout/base.scss";
+@import "layout/fonts.scss";
+
+/* colors */
+$green: #75a159;
+$black: #222021;
+
+/* breakpoints */
+$tablets: 768px;
+$phones: 480px;
+
+/* normalize */
+@import "layout/normalize.css";
+
+/* media */
+@import "layout/media.scss";
+
