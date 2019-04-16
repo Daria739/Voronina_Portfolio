@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__nav-bg {
+    display: block;
+    width: 459px;
+    height: 4px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 33%;
+    top: 17%;
+
+}
+
+.header__phone-content {
+    font-size: 18px;
+    font-weight: 600;
+    opacity: 0.6;
+    text-decoration: none;
+    color: $black;
+}

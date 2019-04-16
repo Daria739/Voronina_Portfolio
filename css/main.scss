@@ -5,6 +5,7 @@
 /* colors */
 $green: #75a159;
 $black: #222021;
+$grey: #f8f8f8;
 
 /* breakpoints */
 $tablets: 768px;
@@ -16,3 +17,8 @@ $phones: 480px;
 /* media */
 @import "layout/media.scss";
 
+/* blocks */
+@import "blocks/hero.scss";
+@import "blocks/header.scss";
+@import "blocks/logo.scss";
+@import "blocks/nav.scss";

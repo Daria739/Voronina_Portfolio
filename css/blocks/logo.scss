@@ -1,0 +1,17 @@
+.logo {
+    width: 254px;
+    height: 76px;
+    background-image: linear-gradient(157deg, #99b477, #7e9b59);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo__name {
+    font-family: PlayfairDisplaySC;
+    font-size: 18px;
+    letter-spacing: 0.6rem;
+    color: #fff;
+    text-transform: uppercase;
+}
