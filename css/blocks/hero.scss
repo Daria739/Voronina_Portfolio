@@ -56,8 +56,6 @@
     &:hover,
     &:active,
     &:focus {
-        background-color: black;
-        color: #fff;
         border-bottom: 3px solid $green;
 
         &:after {
@@ -67,7 +65,7 @@
             margin-left: 10px;
             width: 28px;
             height: 2px;
-            background-color: #fff;
+            background-color: $green;
         }
     }
 }
