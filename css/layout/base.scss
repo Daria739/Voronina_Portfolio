@@ -17,6 +17,8 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     position: relative;
+    font-size: 16px;
+    color: $black;
 }
 
 .wrapper {
@@ -30,7 +32,7 @@ body {
 
 
 .container {
-    max-width: 940px;
+    max-width: 1080px;
     margin: 0 auto;
     position: relative;
     width: 95%;

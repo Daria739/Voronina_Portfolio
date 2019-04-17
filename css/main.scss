@@ -1,11 +1,11 @@
-/* base settings */
-@import "layout/base.scss";
-@import "layout/fonts.scss";
-
 /* colors */
 $green: #75a159;
 $black: #222021;
 $grey: #f8f8f8;
+
+/* base settings */
+@import "layout/base.scss";
+@import "layout/fonts.scss";
 
 /* breakpoints */
 $tablets: 768px;
